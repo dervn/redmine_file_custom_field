@@ -1,0 +1,12 @@
+# English strings go here for Rails i18n
+zh:
+  # my_label: "My label"
+  activerecord:
+    errors:
+      messages:
+        format_invalid: "格式无效"
+        virus_founded: "Virus未找到"
+        clamd_not_working: "Clamd无法工作，请联系管理员"
+  label_file: 文件
+  description_available_file_types: '可选文件类型'
+  description_selected_file_types: '已选文件类型'

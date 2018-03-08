@@ -8,3 +8,5 @@ en:
         virus_founded: "Virus was found"
         clamd_not_working: "Clamd are not working, please contact the admin"
   label_file: File
+  description_available_file_types: 'Available file types'
+  description_selected_file_types: 'Selected file types'
